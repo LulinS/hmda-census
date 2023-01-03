@@ -12,7 +12,12 @@ ALL_YEARS: ["2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "201
             "1997", "1996", "1995", "1994", "1993", "1992", "1991", "1990"]
 
 ffiec_census_2006_fwf_spec: "../schemas/ffiec_census_fwf_spec_2006.csv"
-ffiec_census_2002_fwf_spec: "../schemas/ffiec_census_fwf_spec_2002.csv"
+ffiec_census_2004_fwf_spec: "../schemas/ffiec_census_fwf_spec_2004.csv"
+ffiec_census_2003_fwf_spec: "../schemas/ffiec_census_fwf_spec_2003.csv"
+ffiec_census_1997_fwf_spec: "../schemas/ffiec_census_fwf_spec_1997.csv"
+ffiec_census_1996_fwf_spec: "../schemas/ffiec_census_fwf_spec_1996.csv"
+ffiec_census_1993_fwf_spec: "../schemas/ffiec_census_fwf_spec_1990.csv"
+ffiec_census_1990_fwf_spec: "../schemas/ffiec_census_fwf_spec_1990.csv"
 
 FFIEC_CENSUS_BASE_URL: "https://www.ffiec.gov/Census/Census_Flat_Files/"
 
@@ -36,35 +41,81 @@ OUT_COLUMNS: {'Collection Year': "INTEGER",
              'Small County': "VARCHAR(1)",
              'MSA/MD Name': "VARCHAR"}
 
-extract_fields_2003_on: {"Collection Year": 1,
-                 "MSA/MD": 2, 
-                 "State": 3, 
-                 "County": 4, 
-                 "Census Tract": 5, 
-                 "FFIEC Median Family Income": 14, 
-                 "Population": 15,
-                 "Minority Population %": 21,
-                 "Number of Owner Occupied Units": 880,
-                 "Number of 1 to 4 Family Units": 900,
-                 "Tract MFI": 581,
-                 "Tract to MSA Income %": 13, 
-                 "Median Age": 953,
-                 "Small County": 7}
+extract_fields_2004_2021: {"activity_year": 1,
+                 "msa_md": 2, 
+                 "state_code": 3, 
+                 "county_code": 4, 
+                 "census_tract": 5, 
+                 "ffiec_msa_md_median_family_income": 14, 
+                 "tract_population": 15,
+                 "tract_minority_population_percent": 21,
+                 "tract_owner_occupied_units": 880,
+                 "tract_one_to_four_family_homes": 900,
+                 "tract_median_family_income": 581,
+                 "tract_to_msa_income_percentage": 13, 
+                 "tract_median_age_of_housing_units": 953,
+                 "small_county": 7}
 
-extract_fields_2002_prior: {"Collection Year": 1,
-                 "MSA/MD": 2, 
-                 "State": 3, 
-                 "County": 4, 
-                 "Census Tract": 5, 
-                 "FFIEC Median Family Income": 12, 
-                 "Population": 13,
-                 "Minority Population %": 10,
-                 "Number of Owner Occupied Units": 201,
-                 "Number of 1 to 4 Family Units": 208,
-                 "Tract MFI": 176,
-                 "Tract to MSA Income %": 11, 
-                 "Median Age": 246,
-                 "Small County": 7}
+extract_fields_2003: {"activity_year": 1,
+                 "msa_md": 2, 
+                 "state_code": 3, 
+                 "county_code": 4, 
+                 "census_tract": 5, 
+                 "ffiec_msa_md_median_family_income": 14, 
+                 "tract_population": 15,
+                 "tract_minority_population_percent": 21,
+                 "tract_owner_occupied_units": 908,
+                 "tract_one_to_four_family_homes": 928,
+                 "tract_median_family_income": 578,
+                 "tract_to_msa_income_percentage": 13, 
+                 "tract_median_age_of_housing_units": 980,
+                 "small_county": 7}
+
+
+extract_fields_1996_2002: {"activity_year": 1,
+                 "msa_md": 2, 
+                 "state_code": 3, 
+                 "county_code": 4, 
+                 "census_tract": 5, 
+                 "ffiec_msa_md_median_family_income": 12, 
+                 "tract_population": 13,
+                 "tract_minority_population_percent": 10,
+                 "tract_owner_occupied_units": 201,
+                 "tract_one_to_four_family_homes": 208,
+                 "tract_median_family_income": 176,
+                 "tract_to_msa_income_percentage": 11, 
+                 "tract_median_age_of_housing_units": 246,
+                 "small_county": 7}
+
+extract_fields_1993_1995: {"activity_year": 1,
+                 "msa_md": 2, 
+                 "state_code": 3, 
+                 "county_code": 4, 
+                 "census_tract": 5, 
+                 "ffiec_msa_md_median_family_income": 11, 
+                 "tract_population": 6,
+                 "tract_minority_population_percent": 8,
+                 "tract_owner_occupied_units": 12,
+                 "tract_one_to_four_family_homes": 76,
+                 "tract_median_family_income": 9,
+                 "tract_to_msa_income_percentage": 10, 
+                 "tract_median_age_of_housing_units": 20,
+                 "small_county": 22}
+
+extract_fields_1990_1992: {"activity_year": 1,
+                 "msa_md": 2, 
+                 "state_code": 3, 
+                 "county_code": 4, 
+                 "census_tract": 5, 
+                 "ffiec_msa_md_median_family_income": 11, 
+                 "tract_population": 6,
+                 "tract_minority_population_percent": 8,
+                 "tract_owner_occupied_units": 12,
+                 "tract_one_to_four_family_homes": 75,
+                 "tract_median_family_income": 9,
+                 "tract_to_msa_income_percentage": 10, 
+                 "tract_median_age_of_housing_units": 20,
+                 "small_county": 22}
 
 msa_md_delineation:
   omb_2021: "https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/2020/delineation-files/list1_2020.xls"

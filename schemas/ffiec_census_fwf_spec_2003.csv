@@ -1,0 +1,1260 @@
+﻿Field Number,Element Label,Starting,Ending,Length,Type
+1,“As of Date”,1,4,4,N
+2,Metropolitan Area (MA) Code,5,8,4,N
+3,FIPS State Code,9,10,2,N
+4,FIPS County Code,11,13,3,N
+5,Census Tract,14,19,6,N
+6,Central City Flag,20,20,1,AN
+7,Small County Flag,21,21,1,AN
+8,Split Tract Flag,22,22,1,AN
+9,Demographic Data Flag,23,23,1,AN
+10,Urban/Rural Flag,24,24,1,AN
+11,MA Median Family Income,25,32,8,N
+12,MA Median Household Income,33,40,8,N
+13,MA Median Family Income Percentage,41,46,6,N
+14,HUD Estimated MA Median Family Income,47,54,8,N
+15,Persons/Population,55,62,8,N
+16,"Families, count",63,70,8,N
+17,"Households, count",71,78,8,N
+18,Female Population,79,86,8,N
+19,Male Population,87,94,8,N
+20,Minority Population,95,102,8,N
+21,Minority Percentage,103,108,6,N
+22,Total Population Hispanic/Non-Hispanic,109,116,8,N
+23, Total  Hispanic Population,117,124,8,N
+24, Total  Non-Hispanic Population,125,132,8,N
+25, Total Non-Hispanic Population One Race,133,140,8,N
+26, White ,141,148,8,N
+27, Black or African American,149,156,8,N
+28, American Indian and Alaska Native,157,164,8,N
+29, Asian,165,172,8,N
+30,Native Hawaiian and Other Pacific Islander         ,173,180,8,N
+31, Some Other Race ,181,188,8,N
+32, Two or more Races,189,196,8,N
+33,Combination Asian or Pacific Islander                                                                                     **For 2003                                                                                              ,197,204,8,N
+34, Combination Other Race,205,212,8,N
+35, Total Non-Hispanic Population Two,213,220,8,N
+36,    White/Black or African American,221,228,8,N
+37,    White/American Indian and Alaska Ntv   ,229,236,8,N
+38,    White/Asian,237,244,8,N
+39,    White/ Native Hawaiian and Other ,245,252,8,N
+40,     White/Some Other Race ,253,260,8,N
+41,Total Population,261,268,8,N
+42,    Urban,269,276,8,N
+43,        Inside urbanized areas,277,284,8,N
+44,        Inside urban clusters,285,292,8,N
+45,     Rural,293,300,8,N
+46,        Farm,301,308,8,N
+47,        Non-farm,309,316,8,N
+48,Total Population,317,324,8,N
+49, In households,325,332,8,N
+50,       In family households,333,340,8,N
+51,            Householder,341,348,8,N
+52,                   Male,349,356,8,N
+53,                   Female,357,364,8,N
+54,            Spouse,365,372,8,N
+55,            Child,373,380,8,N
+56,                   Natural-born,381,388,8,N
+57,                   Adopted,389,396,8,N
+58,                   Step,397,404,8,N
+59,             Grandchild,405,412,8,N
+60,             Brother or sister,413,420,8,N
+61,             Parent,421,428,8,N
+62,             Other relatives,429,436,8,N
+63,             Non-relatives,437,444,8,N
+64,     In Non-family households,445,452,8,N
+65,            Male householder,453,460,8,N
+66,                     Living alone,461,468,8,N
+67,                     Not living alone,469,476,8,N
+68,            Female householder,477,484,8,N
+69,                      Living alone,485,492,8,N
+70,                      Not living alone,493,500,8,N
+71,            Non-relatives,501,508,8,N
+72,In Group Quarters,509,516,8,N
+73,            Institutionalized population,517,524,8,N
+74,            Non-institutionalized population   ,525,532,8,N
+75,Total Population 65 years and over,533,540,8,N
+76, In households,541,548,8,N
+77,       In family households,549,556,8,N
+78,              Householder,557,564,8,N
+79,                      Male,565,572,8,N
+80,                      Female,573,580,8,N
+81,               Spouse,581,588,8,N
+82,               Parent,589,596,8,N
+83,               Other relatives,597,604,8,N
+84,               Non-relatives,605,612,8,N
+85,         In Non-family households,613,620,8,N
+86,               Male householder,621,628,8,N
+87,                    Living alone,629,636,8,N
+88,                    Not living alone,637,644,8,N
+89,               Female householder,645,652,8,N
+90,                     Living alone,653,660,8,N
+91,                     Not living alone,661,668,8,N
+92,               Non-relatives,669,676,8,N
+93, In Group Quarters,677,684,8,N
+94,         Institutionalized population,685,692,8,N
+95,         Non-institutionalized population   ,693,700,8,N
+96,Total Population/Sex By Age,701,708,8,N
+97,  Total Male population,709,716,8,N
+98,  Under 5 years,717,724,8,N
+99,  5 to 9 years,725,732,8,N
+100,  10 to 14 years,733,740,8,N
+101,  15 to 17 years,741,748,8,N
+102,  18 and 19 years,749,756,8,N
+103,  20 years,757,764,8,N
+104,  21 years,765,772,8,N
+105,  22 to 24 years,773,780,8,N
+106,  25 to 29 years,781,788,8,N
+107,  30 to 34 years,789,796,8,N
+108,  35 to 39 years,797,804,8,N
+109,  40 to 44 years,805,812,8,N
+110,  45 to 49 years,813,820,8,N
+111,  50 to 54 years,821,828,8,N
+112,  55 to 59 years,829,836,8,N
+113,  60 and 61 years ,837,844,8,N
+114,  62 to 64 years,845,852,8,N
+115,  65 and 66 years,853,860,8,N
+116,  67 to 69 years,861,868,8,N
+117,  70 to 74 years,869,876,8,N
+118,  75 to 79 years,877,884,8,N
+119,  80 to 84 years,885,892,8,N
+120,  85 years and over,893,900,8,N
+121,  Total Males Under 15 years,901,908,8,N
+122,  Total Males 15 to 17 years,909,916,8,N
+123,  Total Males 18 to 24 years,917,924,8,N
+124,  Total Males 25 to 39 years,925,932,8,N
+125,  Total Males 40 to 49 years,933,940,8,N
+126,  Total Males 50 to 61 years,941,948,8,N
+127,  Total Males 62 years and over,949,956,8,N
+128,  Total Males 65 years and over,957,964,8,N
+129,  Total Female Population,965,972,8,N
+130,  Under 5 years,973,980,8,N
+131,  5 to 9 years,981,988,8,N
+132,  10 to 14 years,989,996,8,N
+133,  15 to 17 years,997,1004,8,N
+134,  18 to 19 years,1005,1012,8,N
+135,  20 years,1013,1020,8,N
+136,  21 years,1021,1028,8,N
+137,  22 to 24 years,1029,1036,8,N
+138,  25 to 29 years,1037,1044,8,N
+139,  30 to 34 years,1045,1052,8,N
+140,  35 to 39 years,1053,1060,8,N
+141,  40 to 44 years,1061,1068,8,N
+142,  45 to 49 years,1069,1076,8,N
+143,  50 to 54 years,1077,1084,8,N
+144,  55 to 59 years,1085,1092,8,N
+145,  60 and 61 years,1093,1100,8,N
+146,  62 to 64 years,1101,1108,8,N
+147,  65 and 66 years,1109,1116,8,N
+148,  67 to 69 years,1117,1124,8,N
+149,  70 to 74 years,1125,1132,8,N
+150,  75 to 79 years,1133,1140,8,N
+151,  80 to 84 years,1141,1148,8,N
+152,  85 years and over,1149,1156,8,N
+153,  Total Females Under 15,1157,1164,8,N
+154,  Total Females 15 to 17 years,1165,1172,8,N
+155,  Total Females 18 to 24 years,1173,1180,8,N
+156,  Total Females 25 to 39 years,1181,1188,8,N
+157,   Total Females 40 to 49 years,1189,1196,8,N
+158,   Total Females 50 to 61 years,1197,1204,8,N
+159,  Total Females 62  years and over,1205,1212,8,N
+160,  Total Females 65 years and over,1213,1220,8,N
+161,Total under 5,1221,1228,8,N
+162,Total 5 to 9 years,1229,1236,8,N
+163,Total 10 to 14 years,1237,1244,8,N
+164,Total 15 to 17 years,1245,1252,8,N
+165,Total 18 and 19 years,1253,1260,8,N
+166,Total 20 years,1261,1268,8,N
+167,Total 21 years,1269,1276,8,N
+168,Total 22 to 24 years,1277,1284,8,N
+169,Total 25 to 29 years,1285,1292,8,N
+170,Total 30 to 34 years,1293,1300,8,N
+171,Total 35 to 39 years,1301,1308,8,N
+172,Total 40 to 44 years,1309,1316,8,N
+173,Total 45 to 49 years,1317,1324,8,N
+174,Total 50 to 54 years,1325,1332,8,N
+175,Total 55 to 59 years,1333,1340,8,N
+176,Total 60 and 61 years,1341,1348,8,N
+177,Total 62 to 64 years,1349,1356,8,N
+178,Total 65 and 66 years,1357,1364,8,N
+179,Total 67 to 69 years,1365,1372,8,N
+180,Total 70 to 74 years,1373,1380,8,N
+181,Total 75 to 79 years,1381,1388,8,N
+182,Total 80 to 84 years,1389,1396,8,N
+183,Total 85 years and older,1397,1404,8,N
+184,Total under 15 years,1405,1412,8,N
+185,Total 15 to 17 years,1413,1420,8,N
+186,Total 18 to 24 years,1421,1428,8,N
+187,Total 25 to 39 years,1429,1436,8,N
+188,Total 40 to 49 years,1437,1444,8,N
+189,Total 50 to 61 years,1445,1452,8,N
+190,Total 62 years and over,1453,1460,8,N
+191,Total  65 years and over,1461,1468,8,N
+192,Female Median Age,1469,1476,8,N
+193,Male Median Age,1477,1484,8,N
+194,Persons Median Age,1485,1492,8,N
+195,Total Population 5 years and over,1493,1500,8,N
+196,Total 5 to 17 years,1501,1508,8,N
+197,      Speak only English,1509,1516,8,N
+198,      Speak Spanish,1517,1524,8,N
+199,          Speak English “Very Well”,1525,1532,8,N
+200,          Speak English “Well”,1533,1540,8,N
+201,          Speak English “Not Well”,1541,1548,8,N
+202,          Speak English “Not at All”,1549,1556,8,N
+203,     Speak other Indo-European Lang.,1557,1564,8,N
+204,         Speak English “Very Well”,1565,1572,8,N
+205,         Speak English “Well”,1573,1580,8,N
+206,         Speak English “Not Well”,1581,1588,8,N
+207,         Speak English “Not at All”,1589,1596,8,N
+208,     Speak Asian/Pacific Island Lang.,1597,1604,8,N
+209,         Speak English “Very Well”,1605,1612,8,N
+210,         Speak English “Well”,1613,1620,8,N
+211,         Speak English “Not Well”,1621,1628,8,N
+212,         Speak English “Not at All”,1629,1636,8,N
+213,     Speak Other Languages,1637,1644,8,N
+214,         Speak English “Very Well”,1645,1652,8,N
+215,         Speak English “Well”,1653,1660,8,N
+216,         Speak English “Not Well”,1661,1668,8,N
+217,         Speak English “Not at All”,1669,1676,8,N
+218,Total 18 to 64 Years,1677,1684,8,N
+219,     Speak only English,1685,1692,8,N
+220,     Speak Spanish,1693,1700,8,N
+221,         Speak English “Very Well”,1701,1708,8,N
+222,         Speak English “Well”,1709,1716,8,N
+223,         Speak English “Not Well”,1717,1724,8,N
+224,         Speak English “Not at All”,1725,1732,8,N
+225,     Speak other Indo-European Lang.,1733,1740,8,N
+226,         Speak English “Very Well”,1741,1748,8,N
+227,         Speak English “Well”,1749,1756,8,N
+228,         Speak English “Not Well”,1757,1764,8,N
+229,         Speak English “Not at All”,1765,1772,8,N
+230,     Speak Asian/Pacific Island Lang.,1773,1780,8,N
+231,         Speak English “Very Well”,1781,1788,8,N
+232,         Speak English “Well”,1789,1796,8,N
+233,         Speak English “Not Well”,1797,1804,8,N
+234,         Speak English “Not at All”,1805,1812,8,N
+235,     Speak Other Languages,1813,1820,8,N
+236,         Speak English “Very Well”,1821,1828,8,N
+237,         Speak English “Well”,1829,1836,8,N
+238,         Speak English “Not Well”,1837,1844,8,N
+239,         Speak English “Not at All”,1845,1852,8,N
+240, Total 65 Years and over,1853,1860,8,N
+241,     Speak only English,1861,1868,8,N
+242,     Speak Spanish,1869,1876,8,N
+243,         Speak English “Very Well”,1877,1884,8,N
+244,         Speak English “Well”,1885,1892,8,N
+245,         Speak English “Not Well”,1893,1900,8,N
+246,         Speak English “Not at All”,1901,1908,8,N
+247,     Speak Other Indo-European Lang.,1909,1916,8,N
+248,         Speak English “Very Well”,1917,1924,8,N
+249,         Speak English “Well”,1925,1932,8,N
+250,         Speak English “Not Well”,1933,1940,8,N
+251,         Speak English “Not At All”,1941,1948,8,N
+252,     Speak Asian/Pacific Island Lang.,1949,1956,8,N
+253,         Speak English “Very Well”,1957,1964,8,N
+254,         Speak English “Well”,1965,1972,8,N
+255,         Speak English “Not Well”,1973,1980,8,N
+256,         Speak English “Not at All”,1981,1988,8,N
+257,     Speak Other Languages,1989,1996,8,N
+258,         Speak English “Very Well”,1997,2004,8,N
+259,         Speak English “Well”,2005,2012,8,N
+260,         Speak English “Not Well”,2013,2020,8,N
+261,         Speak English “Not at All”,2021,2028,8,N
+262,Total population 25 years and over,2029,2036,8,N
+263,    Male,2037,2044,8,N
+264,          No schooling completed,2045,2052,8,N
+265,          Nursery to 4th grade,2053,2060,8,N
+266,          5th and 6th grade,2061,2068,8,N
+267,          7th and 8th grade,2069,2076,8,N
+268,          9th grade,2077,2084,8,N
+269,          10th grade,2085,2092,8,N
+270,          11th grade,2093,2100,8,N
+271,          12th grade – no diploma,2101,2108,8,N
+272,          High School graduate,2109,2116,8,N
+273,          Some college – less than 1 yr.,2117,2124,8,N
+274,          Some college – 1 or more yrs.,2125,2132,8,N
+275,          Associate Degree,2133,2140,8,N
+276,          Bachelor’s Degree,2141,2148,8,N
+277,          Master’s Degree,2149,2156,8,N
+278,          Professional School Degree,2157,2164,8,N
+279,          Doctorate Degree,2165,2172,8,N
+280,    Female,2173,2180,8,N
+281,           No schooling completed,2181,2188,8,N
+282,           Nursery to 4th grade,2189,2196,8,N
+283,           5th and 6th grade,2197,2204,8,N
+284,           7th and 8th grade,2205,2212,8,N
+285,           9th grade,2213,2220,8,N
+286,           10th grade,2221,2228,8,N
+287,           11th grade,2229,2236,8,N
+288,           12th grade – no diploma,2237,2244,8,N
+289,          High School Graduate,2245,2252,8,N
+290,           Some College – less than 1 yr.,2253,2260,8,N
+291,           Some College – 1 or more yrs.,2261,2268,8,N
+292,           Associate Degree,2269,2276,8,N
+293,           Bachelor’s Degree,2277,2284,8,N
+294,           Master’s Degree,2285,2292,8,N
+295,           Professional School Degree,2293,2300,8,N
+296,           Doctorate Degree,2301,2308,8,N
+297,Total Population in Group Quarters,2309,2316,8,N
+298,   Institutionalized population,2317,2324,8,N
+299,       Correctional ,2325,2332,8,N
+300,       Nursing Homes,2333,2340,8,N
+301,       Other,2341,2348,8,N
+302,   Non-institutionalized population,2349,2356,8,N
+303,       College Dormitories,2357,2364,8,N
+304,       Military Quarters,2365,2372,8,N
+305,       Other,2373,2380,8,N
+306,Total Population 16 years and over,2381,2388,8,N
+307,    Male,2389,2396,8,N
+308,        In Labor Force,2397,2404,8,N
+309,            In Armed Forces,2405,2412,8,N
+310,            Civilians     ,2413,2420,8,N
+311,               Employed,2421,2428,8,N
+312,               Unemployed,2429,2436,8,N
+313,        Not in Labor Force,2437,2444,8,N
+314,   Female,2445,2452,8,N
+315,       In Labor Force,2453,2460,8,N
+316,            In Armed Forces,2461,2468,8,N
+317,            Civilians     ,2469,2476,8,N
+318,               Employed,2477,2484,8,N
+319,               Unemployed,2485,2492,8,N
+320,        Not in Labor Force,2493,2500,8,N
+321,Total Households,2501,2508,8,N
+322,"   Less than $10,000",2509,2516,8,N
+323,"   $10,000 to $14,999",2517,2524,8,N
+324,"   $15,000 to $19,999",2525,2532,8,N
+325,"   $20,000 to $24,999",2533,2540,8,N
+326,"   $25,000 to $29,999",2541,2548,8,N
+327,"   $30,000 to $34,999",2549,2556,8,N
+328,"   $35,000 to $39,999",2557,2564,8,N
+329,"   $40,000 to $44,999",2565,2572,8,N
+330,"   $45,000 to $49,999",2573,2580,8,N
+331,"   $50,000 to $59,999",2581,2588,8,N
+332,"   $60,000 to $74,999",2589,2596,8,N
+333,"   $75,000 to $99,999",2597,2604,8,N
+334,"   $100,000 to $124,999",2605,2612,8,N
+335,"   $125,000 to $149,999",2613,2620,8,N
+336,"   $150,000 to $199,999",2621,2628,8,N
+337,"   $200,000 or more",2629,2636,8,N
+338,Median Household Income in 1999 (tract level) (SF3.P53),2637,2644,8,N
+339,Total Household with White,2645,2652,8,N
+340,"   Less than $10,000",2653,2660,8,N
+341,"   $10,000 to $14,999",2661,2668,8,N
+342,"   $15,000 to $19,999",2669,2676,8,N
+343,"   $20,000 to $24,999",2677,2684,8,N
+344,"   $25,000 to $29,999",2685,2692,8,N
+345,"   $30,000 to $34,999",2693,2700,8,N
+346,"   $35,000 to $39,999",2701,2708,8,N
+347,"   $40,000 to $44,999",2709,2716,8,N
+348,"   $45,000 to $49,999",2717,2724,8,N
+349,"   $50,000 to $59,999",2725,2732,8,N
+350,"   $60,000 to $74,999",2733,2740,8,N
+351,"   $75,000 to $99,999",2741,2748,8,N
+352,"   $100,000 to $124,999",2749,2756,8,N
+353,"   $125,000 to $149,999",2757,2764,8,N
+354,"   $150,000 to $199,999",2765,2772,8,N
+355,"   $200,000 or more",2773,2780,8,N
+356,,2781,2788,8,N
+357,"   Less than $10,000",2789,2796,8,N
+358,"   $10,000 to $14,999",2797,2804,8,N
+359,"   $15,000 to $19,999",2805,2812,8,N
+360,"   $20,000 to $24,999",2813,2820,8,N
+361,"   $25,000 to $29,999",2821,2828,8,N
+362,"   $30,000 to $34,999",2829,2836,8,N
+363,"   $35,000 to $39,999",2837,2844,8,N
+364,"   $40,000 to $44,999",2845,2852,8,N
+365,"   $45,000 to $49,999",2853,2860,8,N
+366,"   $50,000 to $59,999",2861,2868,8,N
+367,"   $60,000 to $74,999",2869,2876,8,N
+368,"   $75,000 to $99,999",2877,2884,8,N
+369,"   $100,000 to $124,999",2885,2892,8,N
+370,"   $125,000 to $149,999",2893,2900,8,N
+371,"   $150,000 to $199,999",2901,2908,8,N
+372,"   $200,000 or more",2909,2916,8,N
+373,,2917,2924,8,N
+374,"   Less than $10,000",2925,2932,8,N
+375,"   $10,000 to $14,999",2933,2940,8,N
+376,"   $15,000 to $19,999",2941,2948,8,N
+377,"   $20,000 to $24,999",2949,2956,8,N
+378,"   $25,000 to $29,999",2957,2964,8,N
+379,"   $30,000 to $34,999",2965,2972,8,N
+380,"   $35,000 to $39,999",2973,2980,8,N
+381,"   $40,000 to $44,999",2981,2988,8,N
+382,"   $45,000 to $49,999",2989,2996,8,N
+383,"   $50,000 to $59,999",2997,3004,8,N
+384,"   $60,000 to $74,999",3005,3012,8,N
+385,"   $75,000 to $99,999",3013,3020,8,N
+386,"   $100,000 to $124,999",3021,3028,8,N
+387,"   $125,000 to $149,999",3029,3036,8,N
+388,"   $150,000 to $199,999",3037,3044,8,N
+389,"   $200,000 or more",3045,3052,8,N
+390,Total Household with Asian,3053,3060,8,N
+391,"   Less than $10,000",3061,3068,8,N
+392,"   $10,000 to $14,999",3069,3076,8,N
+393,"   $15,000 to $19,999",3077,3084,8,N
+394,"   $20,000 to $24,999",3085,3092,8,N
+395,"   $25,000 to $29,999",3093,3100,8,N
+396,"   $30,000 to $34,999",3101,3108,8,N
+397,"   $35,000 to $39,999",3109,3116,8,N
+398,"   $40,000 to $44,999",3117,3124,8,N
+399,"   $45,000 to $49,999",3125,3132,8,N
+400,"   $50,000 to $59,999",3133,3140,8,N
+401,"   $60,000 to $74,999",3141,3148,8,N
+402,"   $75,000 to $99,999",3149,3156,8,N
+403,"   $100,000 to $124,999",3157,3164,8,N
+404,"   $125,000 to $149,999",3165,3172,8,N
+405,"   $150,000 to $199,999",3173,3180,8,N
+406,"   $200,000 or more",3181,3188,8,N
+407,Total Household with Native Hawaiian and Other Pacific Islander,3189,3196,8,N
+408,"   Less than $10,000",3197,3204,8,N
+409,"   $10,000 to $14,999",3205,3212,8,N
+410,"   $15,000 to $19,999",3213,3220,8,N
+411,"   $20,000 to $24,999",3221,3228,8,N
+412,"   $25,000 to $29,999",3229,3236,8,N
+413,"   $30,000 to $34,999",3237,3244,8,N
+414,"   $35,000 to $39,999",3245,3252,8,N
+415,"   $40,000 to $44,999",3253,3260,8,N
+416,"   $45,000 to $49,999",3261,3268,8,N
+417,"   $50,000 to $59,999",3269,3276,8,N
+418,"   $60,000 to $74,999",3277,3284,8,N
+419,"   $75,000 to $99,999",3285,3292,8,N
+420,"   $100,000 to $124,999",3293,3300,8,N
+421,"   $125,000 to $149,999",3301,3308,8,N
+422,"   $150,000 to $199,999",3309,3316,8,N
+423,"   $200,000 or more",3317,3324,8,N
+424,Total Household with combination Asian or Pacific Islander,3325,3332,8,N
+425,"    Less than $10,000",3333,3340,8,N
+426,"   $10,000 to $14,999",3341,3348,8,N
+427,"   $15,000 to $19,999",3349,3356,8,N
+428,"   $20,000 to $24,999",3357,3364,8,N
+429,"   $25,000 to $29,999",3365,3372,8,N
+430,"   $30,000 to $34,999",3373,3380,8,N
+431,"   $35,000 to $39,999",3381,3388,8,N
+432,"   $40,000 to $44,999",3389,3396,8,N
+433,"   $45,000 to $49,999",3397,3404,8,N
+434,"   $50,000 to $59,999",3405,3412,8,N
+435,"   $60,000 to $74,999",3413,3420,8,N
+436,"   $75,000 to $99,999",3421,3428,8,N
+437,"   $100,000 to $124,999",3429,3436,8,N
+438,"   $125,000 to $149,999",3437,3444,8,N
+439,"   $150,000 to $199,999",3445,3452,8,N
+440,"   $200,000 or more",3453,3460,8,N
+441,Total Household with Other Race,3461,3468,8,N
+442,"   Less than $10,000",3469,3476,8,N
+443,"   $10,000 to $14,999",3477,3484,8,N
+444,"   $15,000 to $19,999",3485,3492,8,N
+445,"   $20,000 to $24,999",3493,3500,8,N
+446,"   $25,000 to $29,999",3501,3508,8,N
+447,"   $30,000 to $34,999",3509,3516,8,N
+448,"   $35,000 to $39,999",3517,3524,8,N
+449,"   $40,000 to $44,999",3525,3532,8,N
+450,"   $45,000 to $49,999",3533,3540,8,N
+451,"   $50,000 to $59,999",3541,3548,8,N
+452,"   $60,000 to $74,999",3549,3556,8,N
+453,"   $75,000 to $99,999",3557,3564,8,N
+454,"   $100,000 to $124,999",3565,3572,8,N
+455,"   $125,000 to $149,999",3573,3580,8,N
+456,"   $150,000 to $199,999",3581,3588,8,N
+457,"   $200,000 or more",3589,3596,8,N
+458,Total Household with Two or More Races,3597,3604,8,N
+459,"   Less than $10,000",3605,3612,8,N
+460,"   $10,000 to $14,999",3613,3620,8,N
+461,"   $15,000 to $19,999",3621,3628,8,N
+462,"   $20,000 to $24,999",3629,3636,8,N
+463,"   $25,000 to $29,999",3637,3644,8,N
+464,"   $30,000 to $34,999",3645,3652,8,N
+465,"   $35,000 to $39,999",3653,3660,8,N
+466,"   $40,000 to $44,999",3661,3668,8,N
+467,"   $45,000 to $49,999",3669,3676,8,N
+468,"   $50,000 to $59,999",3677,3684,8,N
+469,"   $60,000 to $74,999",3685,3692,8,N
+470,"   $75,000 to $99,999",3693,3700,8,N
+471,"   $100,000 to $124,999",3701,3708,8,N
+472,"   $125,000 to $149,999",3709,3716,8,N
+473,"   $150,000 to $199,999",3717,3724,8,N
+474,"   $200,000 or more",3725,3732,8,N
+475,Total Household with combination Some Other Race and Two or More Races,3733,3740,8,N
+476,"   Less than $10,000",3741,3748,8,N
+477,"   $10,000 to $14,999",3749,3756,8,N
+478,"   $15,000 to $19,999",3757,3764,8,N
+479,"   $20,000 to $24,999",3765,3772,8,N
+480,"   $25,000 to $29,999",3773,3780,8,N
+481,"   $30,000 to $34,999",3781,3788,8,N
+482,"   $35,000 to $39,999",3789,3796,8,N
+483,"   $40,000 to $44,999",3797,3804,8,N
+484,"   $45,000 to $49,999",3805,3812,8,N
+485,"   $50,000 to $59,999",3813,3820,8,N
+486,"   $60,000 to $74,999",3821,3828,8,N
+487,"   $75,000 to $99,999",3829,3836,8,N
+488,"   $100,000 to $124,999",3837,3844,8,N
+489,"   $125,000 to $149,999",3845,3852,8,N
+490,"   $150,000 to $199,999",3853,3860,8,N
+491,"   $200,000 or more",3861,3868,8,N
+492,Total Household with Hispanic or Latino,3869,3876,8,N
+493,"   Less than $10,000",3877,3884,8,N
+494,"   $10,000 to $14,999",3885,3892,8,N
+495,"   $15,000 to $19,999",3893,3900,8,N
+496,"   $20,000 to $24,999",3901,3908,8,N
+497,"   $25,000 to $29,999",3909,3916,8,N
+498,"   $30,000 to $34,999",3917,3924,8,N
+499,"   $35,000 to $39,999",3925,3932,8,N
+500,"   $40,000 to $44,999",3933,3940,8,N
+501,"   $45,000 to $49,999",3941,3948,8,N
+502,"   $50,000 to $59,999",3949,3956,8,N
+503,"   $60,000 to $74,999",3957,3964,8,N
+504,"   $75,000 to $99,999",3965,3972,8,N
+505,"   $100,000 to $124,999",3973,3980,8,N
+506,"   $125,000 to $149,999",3981,3988,8,N
+507,"   $150,000 to $199,999",3989,3996,8,N
+508,"   $200,000 or more",3997,4004,8,N
+509,,4005,4012,8,N
+510,"   Less than $10,000",4013,4020,8,N
+511,"   $10,000 to $14,999",4021,4028,8,N
+512,"   $15,000 to $19,999",4029,4036,8,N
+513,"   $20,000 to $24,999",4037,4044,8,N
+514,"   $25,000 to $29,999",4045,4052,8,N
+515,"   $30,000 to $34,999",4053,4060,8,N
+516,"   $35,000 to $39,999",4061,4068,8,N
+517,"   $40,000 to $44,999",4069,4076,8,N
+518,"   $45,000 to $49,999",4077,4084,8,N
+519,"   $50,000 to $59,999",4085,4092,8,N
+520,"   $60,000 to $74,999",4093,4100,8,N
+521,"   $75,000 to $99,999",4101,4108,8,N
+522,"   $100,000 to $124,999",4109,4116,8,N
+523,"   $125,000 to $149,999",4117,4124,8,N
+524,"   $150,000 to $199,999",4125,4132,8,N
+525,"   $200,000 or more",4133,4140,8,N
+526,Median Household Income – White,4141,4148,8,N
+527,Median Household Income – Black,4149,4156,8,N
+528,Median Household Income – American Indian and Alaska Native,4157,4164,8,N
+529,Median Household Income – Asian,4165,4172,8,N
+530,Median Household Income – Native Hawaiian and Other Pacific Islander,4173,4180,8,N
+531,Median Household Income – Combination Asian or Pacific Islander  ,4181,4188,8,N
+532,Median Household Income – Some Other Race,4189,4196,8,N
+533,Median Household Income – Two or More Races,4197,4204,8,N
+534,Median Household Income – Combination Other Race        **for 2003,4205,4212,8,N
+535,Median Household Income – Hispanic or Latino,4213,4220,8,N
+536,"Median Household Income – White, Not Hispanic or Latino",4221,4228,8,N
+537,,4229,4236,8,N
+538,   With Wage or Salary Income,4237,4244,8,N
+539,   No Wage or Salary Income,4245,4252,8,N
+540,,4253,4260,8,N
+541,   With Self-Employment Income,4261,4268,8,N
+542,   No Self-Employment income,4269,4276,8,N
+543,,4277,4284,8,N
+544,    Income,4285,4292,8,N
+545,"   No Interest, Dividends, or Net Rental",4293,4300,8,N
+546,Total Households with or without Social Security  Income,4301,4308,8,N
+547,   With Social Security Income,4309,4316,8,N
+548,    No Social Security Income,4317,4324,8,N
+549,,4325,4332,8,N
+550,   With Supplemental Security Income,4333,4340,8,N
+551,    No Supplemental Security Income,4341,4348,8,N
+552,,4349,4356,8,N
+553,   With Public Assistance Income,4357,4364,8,N
+554,    No Public Assistance Income,4365,4372,8,N
+555,Total Households with or without Retirement Income,4373,4380,8,N
+556,   With Retirement Income,4381,4388,8,N
+557,   No Retirement Income,4389,4396,8,N
+558,Total Households with or without other types of income,4397,4404,8,N
+559,   With other types of income,4405,4412,8,N
+560,   No other types of  income,4413,4420,8,N
+561,Total Families,4421,4428,8,N
+562,"   Less than $10,000",4429,4436,8,N
+563,"   $10,000 to $14,999",4437,4444,8,N
+564,"   $15,000 to $19,999",4445,4452,8,N
+565,"   $20,000 to $24,999",4453,4460,8,N
+566,"   $25,000 to $29,999",4461,4468,8,N
+567,"   $30,000 to $34,999",4469,4476,8,N
+568,"   $35,000 to $39,999",4477,4484,8,N
+569,"   $40,000 to $44,999",4485,4492,8,N
+570,"   $45,000 to $49,999",4493,4500,8,N
+571,"   $50,000 to $59,999",4501,4508,8,N
+572,"   $60,000 to $74,999",4509,4516,8,N
+573,"   $75,000 to $99,999",4517,4524,8,N
+574,"   $100,000 to $124,999",4525,4532,8,N
+575,"   $125,000 to $149,999",4533,4540,8,N
+576,"   $150,000 to $199,999",4541,4548,8,N
+577,"   $200,000 or more",4549,4556,8,N
+578,Median Family Income in 1999 (tract level) (SF3.P77),4557,4564,8,N
+579,Total Families with White Householder,4565,4572,8,N
+580,"   Less than $10,000",4573,4580,8,N
+581,"   $10,000 to $14,999",4581,4588,8,N
+582,"   $15,000 to $19,999",4589,4596,8,N
+583,"   $20,000 to $24,999",4597,4604,8,N
+584,"   $25,000 to $29,999",4605,4612,8,N
+585,"   $30,000 to $34,999",4613,4620,8,N
+586,"   $35,000 to $39,999",4621,4628,8,N
+587,"   $40,000 to $44,999",4629,4636,8,N
+588,"   $45,000 to $49,999",4637,4644,8,N
+589,"   $50,000 to $59,999",4645,4652,8,N
+590,"   $60,000 to $74,999",4653,4660,8,N
+591,"   $75,000 to $99,999",4661,4668,8,N
+592,"   $100,000 to $124,999",4669,4676,8,N
+593,"   $125,000 to $149,999",4677,4684,8,N
+594,"   $150,000 to $199,999",4685,4692,8,N
+595,"   $200,000 or more",4693,4700,8,N
+596,Total Families with Black or African American  Householder,4701,4708,8,N
+597,"   Less than $10,000",4709,4716,8,N
+598,"   $10,000 to $14,999",4717,4724,8,N
+599,"   $15,000 to $19,999",4725,4732,8,N
+600,"   $20,000 to $24,999",4733,4740,8,N
+601,"   $25,000 to $29,999",4741,4748,8,N
+602,"   $30,000 to $34,999",4749,4756,8,N
+603,"   $35,000 to $39,999",4757,4764,8,N
+604,"   $40,000 to $44,999",4765,4772,8,N
+605,"   $45,000 to $49,999",4773,4780,8,N
+606,"   $50,000 to $59,999",4781,4788,8,N
+607,"   $60,000 to $74,999",4789,4796,8,N
+608,"   $75,000 to $99,999",4797,4804,8,N
+609,"   $100,000 to $124,999",4805,4812,8,N
+610,"   $125,000 to $149,999",4813,4820,8,N
+611,"   $150,000 to $199,999",4821,4828,8,N
+612,"   $200,000 or more",4829,4836,8,N
+613,Total Families with American Indian and Alaska Native Householder,4837,4844,8,N
+614,"   Less than $10,000",4845,4852,8,N
+615,"   $10,000 to $14,999",4853,4860,8,N
+616,"   $15,000 to $19,999",4861,4868,8,N
+617,"   $20,000 to $24,999",4869,4876,8,N
+618,"   $25,000 to $29,999",4877,4884,8,N
+619,"   $30,000 to $34,999",4885,4892,8,N
+620,"   $35,000 to $39,999",4893,4900,8,N
+621,"   $40,000 to $44,999",4901,4908,8,N
+622,"   $45,000 to $49,999",4909,4916,8,N
+623,"   $50,000 to $59,999",4917,4924,8,N
+624,"   $60,000 to $74,999",4925,4932,8,N
+625,"   $75,000 to $99,999",4933,4940,8,N
+626,"   $100,000 to $124,999",4941,4948,8,N
+627,"   $125,000 to $149,999",4949,4956,8,N
+628,"   $150,000 to $199,999",4957,4964,8,N
+629,"   $200,000 or more",4965,4972,8,N
+630,Total Families with Asian Householder,4973,4980,8,N
+631,"   Less than $10,000",4981,4988,8,N
+632,"   $10,000 to $14,999",4989,4996,8,N
+633,"   $15,000 to $19,999",4997,5004,8,N
+634,"   $20,000 to $24,999",5005,5012,8,N
+635,"   $25,000 to $29,999",5013,5020,8,N
+636,"   $30,000 to $34,999",5021,5028,8,N
+637,"   $35,000 to $39,999",5029,5036,8,N
+638,"   $40,000 to $44,999",5037,5044,8,N
+639,"   $45,000 to $49,999",5045,5052,8,N
+640,"   $50,000 to $59,999",5053,5060,8,N
+641,"   $60,000 to $74,999",5061,5068,8,N
+642,"   $75,000 to $99,9999",5069,5076,8,N
+643,"   $100,000 to $124,999",5077,5084,8,N
+644,"   $125,000 to $149,999",5085,5092,8,N
+645,"   $150,000 to $199,999",5093,5100,8,N
+646,"   $200,000 or more",5101,5108,8,N
+647,Total Families with Native Hawaiian and Other Pacific Islander Householder,5109,5116,8,N
+648,"   Less than $10,000",5117,5124,8,N
+649,"   $10,000 to $14,999",5125,5132,8,N
+650,"   $15,000 to $19,999",5133,5140,8,N
+651,"   $20,000 to $24,999",5141,5148,8,N
+652,"   $25,000 to $29,999",5149,5156,8,N
+653,"   $30,000 to $34,999",5157,5164,8,N
+654,"   $35,000 to $39,999",5165,5172,8,N
+655,"   $40,000 to $44,999",5173,5180,8,N
+656,"   $45,000 to $49,999",5181,5188,8,N
+657,"   $50,000 to $59,999",5189,5196,8,N
+658,"   $60,000 to $74,999",5197,5204,8,N
+659,"   $75,000 to $99,999",5205,5212,8,N
+660,"   $100,000 to $124,999",5213,5220,8,N
+661,"   $125,000 to $149,999",5221,5228,8,N
+662,"   $150,000 to $199,999",5229,5236,8,N
+663,"   $200,000 or more",5237,5244,8,N
+664,Total Families with combination Asian or Pacific Islander,5245,5252,8,N
+665,"   Less than $10,000",5253,5260,8,N
+666,"   $10,000 to $14,999",5261,5268,8,N
+667,"   $15,000 to $19,999",5269,5276,8,N
+668,"   $20,000 to $24,999",5277,5284,8,N
+669,"   $25,000 to $29,999",5285,5292,8,N
+670,"   $30,000 to $34,999",5293,5300,8,N
+671,"   $35,000 to $39,999",5301,5308,8,N
+672,"   $40,000 to $44,999",5309,5316,8,N
+673,"   $45,000 to $49,999",5317,5324,8,N
+674,"   $50,000 to $59,999",5325,5332,8,N
+675,"   $60,000 to $74,999",5333,5340,8,N
+676,"   $75,000 to $99,999",5341,5348,8,N
+677,"   $100,000 to $124,999",5349,5356,8,N
+678,"   $125,000 to $149,999",5357,5364,8,N
+679,"   $150,000 to $199,999",5365,5372,8,N
+680,"   $200,000 or more",5373,5380,8,N
+681,Total Families with Some Other Race Householder,5381,5388,8,N
+682,"   Less than $10,000",5389,5396,8,N
+683,"   $10,000 to $14,999",5397,5404,8,N
+684,"   $15,000 to $19,999",5405,5412,8,N
+685,"   $20,000 to $24,999",5413,5420,8,N
+686,"   $25,000 to $29,999",5421,5428,8,N
+687,"   $30,000 to $34,999",5429,5436,8,N
+688,"   $35,000 to $39,999",5437,5444,8,N
+689,"   $40,000 to $44,999",5445,5452,8,N
+690,"   $45,000 to $49,999",5453,5460,8,N
+691,"   $50,000 to $59,999",5461,5468,8,N
+692,"   $60,000 to $74,999",5469,5476,8,N
+693,"   $75,000 to $99,999",5477,5484,8,N
+694,"   $100,000 to $124,999",5485,5492,8,N
+695,"   $125,000 to $149,999",5493,5500,8,N
+696,"   $150,000 to $199,999",5501,5508,8,N
+697,"   $200,000 or more",5509,5516,8,N
+698,Total Families with Two or More Races Householder,5517,5524,8,N
+699,"   Less than $10,000",5525,5532,8,N
+700,"   $10,000 to $14,999",5533,5540,8,N
+701,"   $15,000 to $19,999",5541,5548,8,N
+702,"   $20,000 to $24,999",5549,5556,8,N
+703,"   $25,000 to $29,999",5557,5564,8,N
+704,"   $30,000 to $34,999",5565,5572,8,N
+705,"   $35,000 to $39,999",5573,5580,8,N
+706,"   $40,000 to $44,999",5581,5588,8,N
+707,"   $45,000 to $49,999",5589,5596,8,N
+708,"   $50,000 to $59,999",5597,5604,8,N
+709,"   $60,000 to $74,999",5605,5612,8,N
+710,"   $75,000 to $99,999",5613,5620,8,N
+711,"   $100,000 to $124,999",5621,5628,8,N
+712,"   $125,000 to $149,999",5629,5636,8,N
+713,"   $150,000 to $199,999",5637,5644,8,N
+714,"   $200,000 or more",5645,5652,8,N
+715,Total Families with combination Other Race,5653,5660,8,N
+716,"   Less than $10,000",5661,5668,8,N
+717,"   $10,000 to $14,999",5669,5676,8,N
+718,"   $15,000 to $19,999",5677,5684,8,N
+719,"   $20,000 to $24,999",5685,5692,8,N
+720,"   $25,000 to $29,999",5693,5700,8,N
+721,"  $30,000 to $34,999",5701,5708,8,N
+722,"   $35,000 to $39,999",5709,5716,8,N
+723,"   $40,000 to $44,999",5717,5724,8,N
+724,"   $45,000 to $49,999",5725,5732,8,N
+725,"   $50,000 to $59,999",5733,5740,8,N
+726,"   $60,000 to $74,999",5741,5748,8,N
+727,"   $75,000 to $99,999",5749,5756,8,N
+728,"   $100,000 to $124,999",5757,5764,8,N
+729,"   $125,000 to $149,999",5765,5772,8,N
+730,"   $150,000 to $199,999",5773,5780,8,N
+731,"   $200,000 or more",5781,5788,8,N
+732,,5789,5796,8,N
+733,"   Less than $10,000",5797,5804,8,N
+734,"   $10,000 to $14,999",5805,5812,8,N
+735,"   $15,000 to $19,999",5813,5820,8,N
+736,"   $20,000 to $24,999",5821,5828,8,N
+737,"   $25,000 to $29,999",5829,5836,8,N
+738,"   $30,000 to $34,999",5837,5844,8,N
+739,"   $35,000 to $39,999",5845,5852,8,N
+740,"   $40,000 to $44,999",5853,5860,8,N
+741,"   $45,000 to $49,999",5861,5868,8,N
+742,"   $50,000 to $59,999",5869,5876,8,N
+743,"   $60,000 to $74,999",5877,5884,8,N
+744,"   $75,000 to $99,999",5885,5892,8,N
+745,"   $100,000 to $124,999",5893,5900,8,N
+746,"   $125,000 to $149,999",5901,5908,8,N
+747,"   $150,000 to $199,999",5909,5916,8,N
+748,"   $200,000 or more",5917,5924,8,N
+749,,5925,5932,8,N
+750,"   Less than $10,000",5933,5940,8,N
+751,"   $10,000 to $14,999",5941,5948,8,N
+752,"   $15,000 to $19,999",5949,5956,8,N
+753,"   $20,000 to $24,999",5957,5964,8,N
+754,"   $25,000 to $29,999",5965,5972,8,N
+755,"   $30,000 to $34,999",5973,5980,8,N
+756,"   $35,000 to $39,999",5981,5988,8,N
+757,"   $40,000 to $44,999",5989,5996,8,N
+758,"   $45,000 to $49,999",5997,6004,8,N
+759,"   $50,000 to $59,999",6005,6012,8,N
+760,"   $60,000 to $74,999",6013,6020,8,N
+761,"   $75,000 to $99,999",6021,6028,8,N
+762,"   $100,000 to $124,999",6029,6036,8,N
+763,"   $125,000 to $149,999",6037,6044,8,N
+764,"   $150,000 to $199,999",6045,6052,8,N
+765,"   $200,000 or more",6053,6060,8,N
+766,Median Family Income – White,6061,6068,8,N
+767,Median Family Income – Black or African American,6069,6076,8,N
+768,Median Family Income – American Indian and Alaska Native,6077,6084,8,N
+769,Median Family Income – Asian,6085,6092,8,N
+770,Median Family Income – Native Hawaiian and Other Pacific Islander,6093,6100,8,N
+771,Median Family Income – Combination Asian or Pacific Islander         **For 2003,6101,6108,8,N
+772,Median Family Income – Some Other Race,6109,6116,8,N
+773,Median Family Income – Two or More Races,6117,6124,8,N
+774,Median Family Income – Combination Other Race                              **For 2003,6125,6132,8,N
+775,Median Family Income – Hispanic or Latino,6133,6140,8,N
+776,"Median Family Income – White, Not Hispanic or Latino",6141,6148,8,N
+777,Median Non-Family Income in 1999 (SF3.P80),6149,6156,8,N
+778,Total Population for whom poverty status is determined,6157,6164,8,N
+779,    Income below poverty level,6165,6172,8,N
+780,        Under 5 years,6173,6180,8,N
+781,         5 years,6181,6188,8,N
+782,         6 to 11 years,6189,6196,8,N
+783,         12 to 17 years,6197,6204,8,N
+784,         18 to 64 years,6205,6212,8,N
+785,         65 to 74 years ,6213,6220,8,N
+786,         75 years and over,6221,6228,8,N
+787,     Income at or above poverty level,6229,6236,8,N
+788,        Under 5 years,6237,6244,8,N
+789,         5 years,6245,6252,8,N
+790,         6 to 11 years,6253,6260,8,N
+791,         12 to 17 years,6261,6268,8,N
+792,         18 to 64 years,6269,6276,8,N
+793,         65 to 74 years ,6277,6284,8,N
+794,         75 years and over,6285,6292,8,N
+795,Poverty Level Percent,6293,6298,6,N
+796,Total Families,6299,6306,8,N
+797, Income below Poverty Level,6307,6314,8,N
+798,   Married-couple family   ,6315,6322,8,N
+799,        With related children under 18 yrs,6323,6330,8,N
+800,            Under 5 years only,6331,6338,8,N
+801,            Under 5 years and 5 to 17 yrs.,6339,6346,8,N
+802,            5 to 17 years only,6347,6354,8,N
+803,         No related children under 18 yrs.,6355,6362,8,N
+804,    Other Family,6363,6370,8,N
+805,"      Male Householder, no wife ",6371,6378,8,N
+806,          With related children under 18 yrs.,6379,6386,8,N
+807,             Under 5 years only,6387,6394,8,N
+808,             Under 5 years and 5 to 17 yrs.,6395,6402,8,N
+809,             5 to 17 years only,6403,6410,8,N
+810,         No related children under 18 yrs.,6411,6418,8,N
+811,"      Female Householder, no husband ",6419,6426,8,N
+812,          With related children under 18 yrs.,6427,6434,8,N
+813,              Under 5 years only,6435,6442,8,N
+814,              Under 5 years and 5 to 17 yrs.,6443,6450,8,N
+815,               5 to 17 years only,6451,6458,8,N
+816,           No related children under 18 yrs.,6459,6466,8,N
+817, Income at or above poverty level,6467,6474,8,N
+818,   Married-couple family   ,6475,6482,8,N
+819,        With related children under 18 yrs,6483,6490,8,N
+820,            Under 5 years only,6491,6498,8,N
+821,            Under 5 years and 5 to 17 yrs.,6499,6506,8,N
+822,            5 to 17 years only,6507,6514,8,N
+823,         No related children under 18 yrs.,6515,6522,8,N
+824,  Other Family,6523,6530,8,N
+825,"      Male Householder, no wife ",6531,6538,8,N
+826,          With related children under 18 yrs.,6539,6546,8,N
+827,             Under 5 years only,6547,6554,8,N
+828,             Under 5 years and 5 to 17 yrs.,6555,6562,8,N
+829,             5 to 17 years only,6563,6570,8,N
+830,         No related children under 18 yrs.,6571,6578,8,N
+831,"      Female Householder, no husband ",6579,6586,8,N
+832,          With related children under 18 yrs.,6587,6594,8,N
+833,              Under 5 years only,6595,6602,8,N
+834,              Under 5 years and 5 to 17 yrs.,6603,6610,8,N
+835,               5 to 17 years only,6611,6618,8,N
+836,           No related children under 18 yrs.,6619,6626,8,N
+837,Total Households,6627,6634,8,N
+838, Income below Poverty Level,6635,6642,8,N
+839,    Family Households,6643,6650,8,N
+840,        Married-couple family,6651,6658,8,N
+841,           Householder under 25 years,6659,6666,8,N
+842,           Householder 25 to 44 years,6667,6674,8,N
+843,           Householder 45 to 64 years,6675,6682,8,N
+844,           Householders 65 years and over,6683,6690,8,N
+845,      Other Family,6691,6698,8,N
+846,"           Male Householder, no wife  ",6699,6706,8,N
+847,             Householder under 25 years,6707,6714,8,N
+848,             Householder 25 to 44 years,6715,6722,8,N
+849,             Householder 45 to 64 years,6723,6730,8,N
+850,             Householders 65 years and over,6731,6738,8,N
+851,"          Female Householder, no husband           ",6739,6746,8,N
+852,             Householder under 25 years,6747,6754,8,N
+853,             Householder 25 to 44 years,6755,6762,8,N
+854,             Householder 45 to 64 years,6763,6770,8,N
+855,             Householders 65 years and over,6771,6778,8,N
+856,      Non-family Households,6779,6786,8,N
+857,           Male Householder,6787,6794,8,N
+858,             Householder under 25 years,6795,6802,8,N
+859,             Householder 25 to 44 years,6803,6810,8,N
+860,             Householder 45 to 64 years,6811,6818,8,N
+861,             Householders 65 years and over,6819,6826,8,N
+862,          Female Householder ,6827,6834,8,N
+863,             Householder under 25 years,6835,6842,8,N
+864,             Householder 25 to 44 years,6843,6850,8,N
+865,             Householder 45 to 64 years,6851,6858,8,N
+866,             Householders 65 years and over,6859,6866,8,N
+867, Income at or above Poverty Level,6867,6874,8,N
+868,    Family Households,6875,6882,8,N
+869,        Married-couple family,6883,6890,8,N
+870,           Householder under 25 years,6891,6898,8,N
+871,           Householder 25 to 44 years,6899,6906,8,N
+872,           Householder 45 to 64 years,6907,6914,8,N
+873,           Householders 65 years and over,6915,6922,8,N
+874,      Other Family,6923,6930,8,N
+875,"           Male Householder, no wife ",6931,6938,8,N
+876,             Householder under 25 years,6939,6946,8,N
+877,             Householder 25 to 44 years,6947,6954,8,N
+878,             Householder 45 to 64 years,6955,6962,8,N
+879,             Householders 65 years and over,6963,6970,8,N
+880,"          Female Householder, no husband           ",6971,6978,8,N
+881,             Householder under 25 years,6979,6986,8,N
+882,             Householder 25 to 44 years,6987,6994,8,N
+883,             Householder 45 to 64 years,6995,7002,8,N
+884,             Householders 65 years and over,7003,7010,8,N
+885,      Non-family Households,7011,7018,8,N
+886,           Male Householder,7019,7026,8,N
+887,             Householder under 25 years,7027,7034,8,N
+888,             Householder 25 to 44 years,7035,7042,8,N
+889,             Householder 45 to 64 years,7043,7050,8,N
+890,             Householders 65 years and over,7051,7058,8,N
+891,          Female Householder ,7059,7066,8,N
+892,             Householder under 25 years,7067,7074,8,N
+893,             Householder 25 to 44 years,7075,7082,8,N
+894,             Householder 45 to 64 years,7083,7090,8,N
+895,             Householders 65 years and over,7091,7098,8,N
+896,Total Housing Units (SF3.H01),7099,7106,8,N
+897,Total Housing Units,7107,7114,8,N
+898,    Urban,7115,7122,8,N
+899,         Inside urbanized areas,7123,7130,8,N
+900,         Inside urban clusters,7131,7138,8,N
+901,    Rural,7139,7146,8,N
+902,         Farm,7147,7154,8,N
+903,         Non-farm,7155,7162,8,N
+904,Total Housing Units,7163,7170,8,N
+905,    Occupied,7171,7178,8,N
+906,    Vacant,7179,7186,8,N
+907,Total Occupied Housing Units,7187,7194,8,N
+908,    Owner Occupied,7195,7202,8,N
+909,    Renter Occupied,7203,7210,8,N
+910,Total Vacant Housing Units,7211,7218,8,N
+911,    For Rent,7219,7226,8,N
+912,    For Sale Only,7227,7234,8,N
+913,"    Rented or Sold, Not Occupied",7235,7242,8,N
+914,    Occasional use  ,7243,7250,8,N
+915,    For Migrant Workers,7251,7258,8,N
+916,    Other Vacant,7259,7266,8,N
+917,Total Housing Units,7267,7274,8,N
+918,"    1, detached",7275,7282,8,N
+919,"    1, attached",7283,7290,8,N
+920,2,7291,7298,8,N
+921,    3 or 4,7299,7306,8,N
+922,    5 to 9,7307,7314,8,N
+923,    10 to 19,7315,7322,8,N
+924,    20 to 49,7323,7330,8,N
+925,    50 or more,7331,7338,8,N
+926,    Mobile Home,7339,7346,8,N
+927,"    Boat, RV, Van, etc.",7347,7354,8,N
+928,    1 to 4 subtotal,7355,7362,8,N
+929,    Multi-family – 5 or more,7363,7370,8,N
+930,Vacant Housing Units,7371,7378,8,N
+931,"     1, detached",7379,7386,8,N
+932,"     1, attached",7387,7394,8,N
+933,2,7395,7402,8,N
+934,     3 or 4,7403,7410,8,N
+935,    5 to 9,7411,7418,8,N
+936,    10 to 19,7419,7426,8,N
+937,    20 to 49,7427,7434,8,N
+938,    50 or more,7435,7442,8,N
+939,    Mobile Home,7443,7450,8,N
+940,"    Boat, RV, Van, etc.",7451,7458,8,N
+941,     1 to 4 subtotal,7459,7466,8,N
+942,    Multi-family – 5 or more,7467,7474,8,N
+943,Total Occupied Housing Units,7475,7482,8,N
+944,    Owner Occupied,7483,7490,8,N
+945,"        1, detached",7491,7498,8,N
+946,"        1, attached",7499,7506,8,N
+947,2,7507,7514,8,N
+948,       3 or 4,7515,7522,8,N
+949,       5 to 9,7523,7530,8,N
+950,       10 to 19,7531,7538,8,N
+951,       20 to 49,7539,7546,8,N
+952,       50 or more,7547,7554,8,N
+953,       Mobile Home,7555,7562,8,N
+954,"       Boat, RV, Van, etc.",7563,7570,8,N
+955,       1 to 4 subtotal,7571,7578,8,N
+956,       Multi-family – 5 or more,7579,7586,8,N
+957,   Renter Occupied,7587,7594,8,N
+958,"        1, detached",7595,7602,8,N
+959,"        1, attached",7603,7610,8,N
+960,2,7611,7618,8,N
+961,       3 or 4,7619,7626,8,N
+962,       5 to 9,7627,7634,8,N
+963,       10 to 19,7635,7642,8,N
+964,       20 to 49,7643,7650,8,N
+965,       50 or more,7651,7658,8,N
+966,       Mobile Home,7659,7666,8,N
+967,"       Boat, RV, Van, etc.",7667,7674,8,N
+968,       1 to 4 Subtotal,7675,7682,8,N
+969,       Multi-family – 5 or more,7683,7690,8,N
+970,Total Housing Units,7691,7698,8,N
+971,    Built 1999 to March 2000,7699,7706,8,N
+972,    Built 1995 to 1998,7707,7714,8,N
+973,    Built 1990 to 1994,7715,7722,8,N
+974,    Built 1980 to 1989,7723,7730,8,N
+975,    Built 1970 to 1979,7731,7738,8,N
+976,    Built 1960 to 1969,7739,7746,8,N
+977,    Built 1950 to 1959,7747,7754,8,N
+978,    Built 1940 to 1949,7755,7762,8,N
+979,    Built 1939 or earlier ,7763,7770,8,N
+980,Median House Age,7771,7778,8,N
+981,Occupied Housing Units,7779,7786,8,N
+982,    Owner Occupied,7787,7794,8,N
+983,        Moved in 1999 to March 2000,7795,7802,8,N
+984,        Moved in 1995 to 1998,7803,7810,8,N
+985,        Moved in 1990 to 1994,7811,7818,8,N
+986,        Moved in 1980 to 1989,7819,7826,8,N
+987,        Moved in 1970 to 1979,7827,7834,8,N
+988,        Moved in 1969 or earlier,7835,7842,8,N
+989,    Renter Occupied,7843,7850,8,N
+990,        Moved in 1999 to March 2000,7851,7858,8,N
+991,        Moved in 1995 to 1998,7859,7866,8,N
+992,        Moved in 1990 to 1994,7867,7874,8,N
+993,        Moved in 1980 to 1989,7875,7882,8,N
+994,        Moved in 1970 to 1979,7883,7890,8,N
+995,        Moved in 1969 or earlier,7891,7898,8,N
+996,Total Housing Units,7899,7906,8,N
+997,    Complete Plumbing Facilities,7907,7914,8,N
+998,    Lacking Complete Plumbing Facilities,7915,7922,8,N
+999,Total Occupied Housing Units,7923,7930,8,N
+1000,    Owner Occupied,7931,7938,8,N
+1001,        Complete plumbing facilities,7939,7946,8,N
+1002,        Lacking complete plumbing facilities,7947,7954,8,N
+1003,    Renter Occupied,7955,7962,8,N
+1004,        Complete plumbing facilities,7963,7970,8,N
+1005,        Lacking complete plumbing facilities,7971,7978,8,N
+1006,,7979,7986,8,N
+1007,    With Cash Rent:,7987,7994,8,N
+1008,        Less than  $100,7995,8002,8,N
+1009,        $100 to $149,8003,8010,8,N
+1010,        $150 to $199,8011,8018,8,N
+1011,        $200 to $249,8019,8026,8,N
+1012,        $250 to $299,8027,8034,8,N
+1013,        $300 to $349,8035,8042,8,N
+1014,        $350 to $399,8043,8050,8,N
+1015,        $400 to $449,8051,8058,8,N
+1016,        $450 to $499,8059,8066,8,N
+1017,        $500 to $549,8067,8074,8,N
+1018,        $550 to $599,8075,8082,8,N
+1019,        $600 to $649,8083,8090,8,N
+1020,        $650 to $699,8091,8098,8,N
+1021,        $700 to $749,8099,8106,8,N
+1022,        $750 to $799,8107,8114,8,N
+1023,        $800 to $899,8115,8122,8,N
+1024,        $900 to $999,8123,8130,8,N
+1025,"        $1,000 to $1,249",8131,8138,8,N
+1026,"        $1,250 to $1,499",8139,8146,8,N
+1027,"        $1,500 to $1,999",8147,8154,8,N
+1028,"        $2,000 or more",8155,8162,8,N
+1029,        No cash rent,8163,8170,8,N
+1030,Median Gross Rent (dollars) (SF3.H63),8171,8178,8,N
+1031,,8179,8186,8,N
+1032,"    Less than $10,000",8187,8194,8,N
+1033,        Less than 20.0 percent,8195,8202,8,N
+1034,        20.0 to 24.9 percent,8203,8210,8,N
+1035,        25.0 to 29.9 percent,8211,8218,8,N
+1036,        30.0 to 34.9 percent,8219,8226,8,N
+1037,        35.0 percent or more,8227,8234,8,N
+1038,        Not computed,8235,8242,8,N
+1039,"    $10,000 to $19,999",8243,8250,8,N
+1040,        Less than 20.0 percent,8251,8258,8,N
+1041,        20.0 to 24.9 percent,8259,8266,8,N
+1042,        25.0 to 29.9 percent,8267,8274,8,N
+1043,        30.0 to 34.9 percent,8275,8282,8,N
+1044,        35.0 percent or more,8283,8290,8,N
+1045,        Not computed,8291,8298,8,N
+1046,"    $20,000 to $34,999",8299,8306,8,N
+1047,        Less than 20.0 percent,8307,8314,8,N
+1048,        20.0 to 24.9 percent,8315,8322,8,N
+1049,        25.0 to 29.9 percent,8323,8330,8,N
+1050,        30.0 to 34.9 percent,8331,8338,8,N
+1051,        35.0 percent or more,8339,8346,8,N
+1052,        Not computed,8347,8354,8,N
+1053,"    $35,000 to $49,999",8355,8362,8,N
+1054,        Less than 20.0 percent,8363,8370,8,N
+1055,        20.0 to 24.9 percent,8371,8378,8,N
+1056,        25.0 to 29.9 percent,8379,8386,8,N
+1057,        30.0 to 34.9 percent,8387,8394,8,N
+1058,        35.0 percent or more,8395,8402,8,N
+1059,        Not computed,8403,8410,8,N
+1060,"    $50,000 to $74,999",8411,8418,8,N
+1061,        Less than 20.0 percent,8419,8426,8,N
+1062,        20.0 to 24.9 percent,8427,8434,8,N
+1063,        25.0 to 29.9 percent,8435,8442,8,N
+1064,        30.0 to 34.9 percent,8443,8450,8,N
+1065,        35.0 percent or more,8451,8458,8,N
+1066,        Not computed,8459,8466,8,N
+1067,"    $75,000 to $99,999",8467,8474,8,N
+1068,        Less than 20.0 percent,8475,8482,8,N
+1069,        20.0 to 24.9 percent,8483,8490,8,N
+1070,        25.0 to 29.9 percent,8491,8498,8,N
+1071,        30.0 to 34.9 percent,8499,8506,8,N
+1072,        35.0 percent or more,8507,8514,8,N
+1073,        Not computed,8515,8522,8,N
+1074,"    $100,000 or more",8523,8530,8,N
+1075,        Less than 20.0 percent,8531,8538,8,N
+1076,        20.0 to 24.9 percent,8539,8546,8,N
+1077,        25.0 to 29.9 percent,8547,8554,8,N
+1078,        30.0 to 34.9 percent,8555,8562,8,N
+1079,        35.0 percent or more,8563,8570,8,N
+1080,        Not computed,8571,8578,8,N
+1081,,8579,8586,8,N
+1082,,8587,8594,8,N
+1083,"     equity loan, but not both",8595,8602,8,N
+1084,        Second mortgage only,8603,8610,8,N
+1085,        Home equity loan only,8611,8618,8,N
+1086,    loan,8619,8626,8,N
+1087,    No second mortgage and no home,8627,8634,8,N
+1088,Housing units without a mortgage,8635,8642,8,N
+1089,Total Owner-Occupied Housing Units,8643,8650,8,N
+1090,"    Less than $10,000",8651,8658,8,N
+1091,"    $10,000 to $14,999",8659,8666,8,N
+1092,"    $15,000 to $19,999",8667,8674,8,N
+1093,"    $20,000 to $24,999",8675,8682,8,N
+1094,"    $25,000 to $29,999",8683,8690,8,N
+1095,"    $30,000 to $34,999",8691,8698,8,N
+1096,"    $35,000 to $39,999",8699,8706,8,N
+1097,"    $40,000 to $49,999",8707,8714,8,N
+1098,"    $50,000 to $59,999",8715,8722,8,N
+1099,"    $60,000 to $69,999",8723,8730,8,N
+1100,"    $70,000 to $79,999",8731,8738,8,N
+1101,"    $80,000 to $89,999",8739,8746,8,N
+1102,"    $90,000 to $99,999",8747,8754,8,N
+1103,"    $100,000 to $124,999",8755,8762,8,N
+1104,"    $125,000 to $149,999",8763,8770,8,N
+1105,"    $150,000 to $174,999",8771,8778,8,N
+1106,"    $175,000 to $199,999",8779,8786,8,N
+1107,"    $200,000 to $249,999",8787,8794,8,N
+1108,"    $250,000 to $299,999",8795,8802,8,N
+1109,"    $300,000 to $399,999",8803,8810,8,N
+1110,"    $400,000 to $499,999",8811,8818,8,N
+1111,"    $500,000 to 749,999",8819,8826,8,N
+1112,"    $750,000 to $999,999",8827,8834,8,N
+1113,"    $1,000,000 or more",8835,8842,8,N
+1114,Median Value (dollars) for All Owner-Occupied Housing Units  (SF3.H85),8843,8850,8,N
+1115,Total White,8851,8858,8,N
+1116,"    1, detached",8859,8866,8,N
+1117,"    1, attached",8867,8874,8,N
+1118,2,8875,8882,8,N
+1119,    3 or 4,8883,8890,8,N
+1120,    5 to 9,8891,8898,8,N
+1121,    10 to 19,8899,8906,8,N
+1122,    20 to 49,8907,8914,8,N
+1123,    50 or more,8915,8922,8,N
+1124,    Mobile Home,8923,8930,8,N
+1125,"    Boat, RV, Van, etc.",8931,8938,8,N
+1126,    1 to 4 Subtotal,8939,8946,8,N
+1127,    Multi-family – 5 or more,8947,8954,8,N
+1128,Total Black or African American,8955,8962,8,N
+1129,"    1, detached",8963,8970,8,N
+1130,"    1, attached",8971,8978,8,N
+1131,2,8979,8986,8,N
+1132,    3 or 4,8987,8994,8,N
+1133,    5 to 9,8995,9002,8,N
+1134,    10 to 19,9003,9010,8,N
+1135,    20 to 49,9011,9018,8,N
+1136,    50 or more,9019,9026,8,N
+1137,    Mobile Home,9027,9034,8,N
+1138,"    Boat, RV, Van, etc.",9035,9042,8,N
+1139,    1 to 4 Subtotal,9043,9050,8,N
+1140,    Multi-family – 5 or more,9051,9058,8,N
+1141,Total American Indian and Alaska Native,9059,9066,8,N
+1142,"    1, detached",9067,9074,8,N
+1143,"    1, attached",9075,9082,8,N
+1144,2,9083,9090,8,N
+1145,    3 or 4,9091,9098,8,N
+1146,    5 to 9,9099,9106,8,N
+1147,    10 to 19,9107,9114,8,N
+1148,    20 to 49,9115,9122,8,N
+1149,    50 or more,9123,9130,8,N
+1150,    Mobile Home,9131,9138,8,N
+1151,"    Boat, RV, Van, etc.",9139,9146,8,N
+1152,    1 to 4 Subtotal,9147,9154,8,N
+1153,    Multi-family – 5 or more,9155,9162,8,N
+1154,Total Asian,9163,9170,8,N
+1155,"    1, detached",9171,9178,8,N
+1156,"    1, attached",9179,9186,8,N
+1157,2,9187,9194,8,N
+1158,    3 or 4,9195,9202,8,N
+1159,    5 to 9,9203,9210,8,N
+1160,    10 to 19,9211,9218,8,N
+1161,    20 to 49,9219,9226,8,N
+1162,    50 or more,9227,9234,8,N
+1163,    Mobile Home,9235,9242,8,N
+1164,"    Boat, RV, Van, etc.",9243,9250,8,N
+1165,    1 to 4 Subtotal,9251,9258,8,N
+1166,    Multi-family – 5 or more,9259,9266,8,N
+1167,,9267,9274,8,N
+1168,"    1, detached",9275,9282,8,N
+1169,"    1, attached",9283,9290,8,N
+1170,2,9291,9298,8,N
+1171,    3 or 4,9299,9306,8,N
+1172,    5 to 9,9307,9314,8,N
+1173,    10 to 19,9315,9322,8,N
+1174,    20 to 49,9323,9330,8,N
+1175,    50 or more,9331,9338,8,N
+1176,    Mobile Home,9339,9346,8,N
+1177,"    Boat, RV, Van, etc.",9347,9354,8,N
+1178,    1 to 4 Subtotal,9355,9362,8,N
+1179,    Multi-family – 5 or more,9363,9370,8,N
+1180,Total Asian or Other Pacific Islander,9371,9378,8,N
+1181,"    1, detached",9379,9386,8,N
+1182,"    1, attached",9387,9394,8,N
+1183,2,9395,9402,8,N
+1184,    3 or 4,9403,9410,8,N
+1185,    5 to 9,9411,9418,8,N
+1186,    10 to 19,9419,9426,8,N
+1187,    20 to 49,9427,9434,8,N
+1188,    50 or more,9435,9442,8,N
+1189,    Mobile Home,9443,9450,8,N
+1190,"    Boat, RV, Van, etc.",9451,9458,8,N
+1191,    1 to 4 Subtotal,9459,9466,8,N
+1192,    Multi-family – 5 or more,9467,9474,8,N
+1193,Total Some Other Race,9475,9482,8,N
+1194,"    1, detached",9483,9490,8,N
+1195,"    1, attached",9491,9498,8,N
+1196,2,9499,9506,8,N
+1197,    3 or 4,9507,9514,8,N
+1198,    5 to 9,9515,9522,8,N
+1199,    10 to 19,9523,9530,8,N
+1200,    20 to 49,9531,9538,8,N
+1201,    50 or more,9539,9546,8,N
+1202,    Mobile Home,9547,9554,8,N
+1203,"    Boat, RV, Van, etc.",9555,9562,8,N
+1204,    1 to 4 Subtotal,9563,9570,8,N
+1205,    Multi-family – 5 or more,9571,9578,8,N
+1206,Total Two or More Races,9579,9586,8,N
+1207,"    1, detached",9587,9594,8,N
+1208,"    1, attached",9595,9602,8,N
+1209,2,9603,9610,8,N
+1210,    3 or 4,9611,9618,8,N
+1211,    5 to 9,9619,9626,8,N
+1212,    10 to 19,9627,9634,8,N
+1213,    20 to 49,9635,9642,8,N
+1214,    50 or more,9643,9650,8,N
+1215,    Mobile Home,9651,9658,8,N
+1216,"    Boat, RV, Van, etc.",9659,9666,8,N
+1217,    1 to 4 Subtotal,9667,9674,8,N
+1218,    Multi-family – 5 or more,9675,9682,8,N
+1219,Total Other ,9683,9690,8,N
+1220,"    1, detached",9691,9698,8,N
+1221,"    1, attached",9699,9706,8,N
+1222,2,9707,9714,8,N
+1223,    3 or 4,9715,9722,8,N
+1224,    5 to 9,9723,9730,8,N
+1225,    10 to 19,9731,9738,8,N
+1226,    20 to 49,9739,9746,8,N
+1227,    50 or more,9747,9754,8,N
+1228,    Mobile Home,9755,9762,8,N
+1229,"    Boat, RV, Van, etc.",9763,9770,8,N
+1230,    1 to 4 Subtotal,9771,9778,8,N
+1231,    Multi-family – 5 or more,9779,9786,8,N
+1232,Total Hispanic or Latino,9787,9794,8,N
+1233,"    1, detached",9795,9802,8,N
+1234,"    1, attached",9803,9810,8,N
+1235,2,9811,9818,8,N
+1236,    3 or 4,9819,9826,8,N
+1237,    5 to 9,9827,9834,8,N
+1238,    10 to 19,9835,9842,8,N
+1239,    20 to 49,9843,9850,8,N
+1240,    50 or more,9851,9858,8,N
+1241,    Mobile Home,9859,9866,8,N
+1242,"    Boat, RV, Van, etc.",9867,9874,8,N
+1243,    1 to 4 Subtotal,9875,9882,8,N
+1244,    Multi-family – 5 or more,9883,9890,8,N
+1245,"Total White, not Hispanic or Latino",9891,9898,8,N
+1246,"    1, detached",9899,9906,8,N
+1247,"    1, attached",9907,9914,8,N
+1248,2,9915,9922,8,N
+1249,    3 or 4,9923,9930,8,N
+1250,    5 to 9,9931,9938,8,N
+1251,    10 to 19,9939,9946,8,N
+1252,    20 to 49,9947,9954,8,N
+1253,    50 or more,9955,9962,8,N
+1254,    Mobile Home,9963,9970,8,N
+1255,"    Boat, RV, Van, etc.",9971,9978,8,N
+1256,    1 to 4 Subtotal,9979,9986,8,N
+1257,    Multi-family – 5 or more,9987,9994,8,N
+1258,Income Indicator,9995,9995,1,N
+1259,Filler,9996,10025,30,AN
